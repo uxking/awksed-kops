@@ -14,7 +14,7 @@ For this example, there is a "kops" directory on the local machine's $HOME dir a
 docker exec -it awksed_kops bash
 cd /root/kops 
 ```
-Create your [deployment|service|*].yaml files in /root/kops. If you remove the container at a later time, anything you placed in /root/kops will persist on your local machine's "kops" directory since we ran the docker container with the -v flag
+Create your [deployment|service|*].yaml files in /root/kops. If you remove the container at a later time, anything you placed in /root/kops will persist on your local machine's "kops" directory since we ran the docker container with the `-v` flag.
 
 
 ### Follow the documentation to build your first cluster
