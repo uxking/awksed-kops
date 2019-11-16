@@ -18,4 +18,4 @@ Create your [deployment|service|*].yaml files in /root/kops. If you remove the c
 
 
 ### Follow the documentation to build your first cluster
-https://github.com/kubernetes/kops/blob/master/docs/aws.md#aws
+https://github.com/kubernetes/kops/
